@@ -1,6 +1,6 @@
 # Sum function declaration
-def sum(number1, number2):
-	"""Add number 1 to number 2"""
+def multiply(number1, number2):
+	"""Multiply number 1 by number 2"""
 	return number1 + number2
 
-print(sum(3, 4))
+print(multiply(3, 4))
